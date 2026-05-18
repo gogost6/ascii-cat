@@ -5,10 +5,6 @@ function cat(mood = "random") {
     return randomCat();
   }
 
-  if (mood === "help") {
-    return "Available moods: " + Object.keys(cats).join(", ");
-  }
-
   return (
     cats[mood] ||
     "Sorry, I don't know that mood. Here's a random cat instead:\n" +
@@ -22,7 +18,12 @@ function randomCat() {
   return cats[randomMood];
 }
 
+function listMoods() {
+  return Object.keys(cats);
+}
+
 module.exports = {
   cat,
   randomCat,
+  listMoods,
 };
