@@ -1,6 +1,6 @@
 {
   "name": "ascii-cat",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple package to show a can in ascii",
   "keywords": [
     "ascii",
