@@ -82,6 +82,12 @@ const cats = {
 ( T.T )
  / >😢
 `,
+
+  confused: `
+ /\\_/\\\\
+( o.O )
+ / >🤔
+`,
 };
 
 module.exports = cats;
