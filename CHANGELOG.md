@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.11](https://github.com/gogost6/ascii-cat/compare/v1.0.10...v1.0.11) (2026-05-18)
+
+
+### Bug Fixes
+
+* better readme ([5af5587](https://github.com/gogost6/ascii-cat/commit/5af5587e32b362873b9e574b78431fa834a6729b))
+
 ## [1.0.10](https://github.com/gogost6/ascii-cat/compare/v1.0.9...v1.0.10) (2026-05-18)
 
 
