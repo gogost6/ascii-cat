@@ -58,6 +58,24 @@ const cats = {
 ( *.* )
  / >🔮
 `,
+
+  sleepy: `
+ /\\_/\\\\
+( -.- )
+ / >💤
+`,
+
+  surprised: `
+ /\\_/\\\\
+( O.O )
+ / >😲
+`,
+
+  cool: `
+ /\\_/\\\\
+( B.B )
+ / >😎
+`,
 };
 
 module.exports = cats;
