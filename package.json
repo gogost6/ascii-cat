@@ -1,0 +1,27 @@
+{
+  "name": "ascii-cat",
+  "version": "1.0.0",
+  "description": "A simple package to show a can in ascii",
+  "keywords": [
+    "ascii",
+    "cat"
+  ],
+  "homepage": "https://github.com/gogost6/ascii-cat#readme",
+  "bugs": {
+    "url": "https://github.com/gogost6/ascii-cat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogost6/ascii-cat.git"
+  },
+  "license": "MIT",
+  "author": "gogost6",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "ascii-cat": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
