@@ -52,6 +52,12 @@ const cats = {
 ( @.@ )
  / >🏴‍☠️
 `,
+
+  wizard: `
+ /\\_/\\\\
+( *.* )
+ / >🔮
+`,
 };
 
 module.exports = cats;
