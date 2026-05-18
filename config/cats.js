@@ -76,6 +76,12 @@ const cats = {
 ( B.B )
  / >😎
 `,
+
+  sad: `
+ /\\_/\\\\
+( T.T )
+ / >😢
+`,
 };
 
 module.exports = cats;
